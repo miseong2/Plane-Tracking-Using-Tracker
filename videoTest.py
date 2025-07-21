@@ -1,5 +1,4 @@
 import cv2
-
 cap = cv2.VideoCapture("plane.mp4")
 
 while True:
